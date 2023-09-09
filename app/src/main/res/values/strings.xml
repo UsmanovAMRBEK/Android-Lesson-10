@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android-Lesson-9</string>
+    <!--- Login string values -->
+    <string name="login_text1">Login</string>
+    <string name="login_text2">Email</string>
+    <string name="login_text3">Password</string>
+</resources>
+
+
